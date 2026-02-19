@@ -18561,6 +18561,12 @@
     githubId = 93013864;
     name = "nat-418";
   };
+  natasha = {
+     name = "Natasha Moongrave";
+     github = "TashaTheInnkeeper";
+     githubId = 165044231;
+     email = "natasha@256phi.eu";+
+   };
   nateeag = {
     github = "NateEag";
     githubId = 837719;
